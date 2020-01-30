@@ -7,5 +7,6 @@ public class testDemo {
     public static void main(String[] args) {
     System.out.println("Hello World");
     System.out.println("Hi,Lu");
+    System.out.println("how you doing?");
     }
 }
