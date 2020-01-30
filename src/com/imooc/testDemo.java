@@ -9,5 +9,6 @@ public class testDemo {
     System.out.println("Hi,Lu");
     System.out.println("how you doing?");
         System.out.println("pretty well");
+         System.out.println("where you going?");
     }
 }
